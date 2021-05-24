@@ -1,5 +1,7 @@
 # Pin-pad project
 
+## Short description
+
 This is the pin-pad project. It is related to entering a pin code, and depending on the pin, it display a message in the form of ok, error or locked.
 
 # Aplication's main features
