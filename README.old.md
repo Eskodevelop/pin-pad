@@ -22,6 +22,7 @@ This is the pin-pad project. It is related to entering a pin code, and depending
 * React
 * React-Dom
 * React-scripts
+* CRUD operations
 
 # Explanation how to clone, install and use application
 1. Clone repository: https://github.com/Eskodevelop/pin-pad
